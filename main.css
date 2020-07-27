@@ -1,0 +1,62 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.bg-4 { 
+  background-color: #2f2f2f; /* Black Gray */
+  color: #fff;
+}
+.container-fluid {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.container{
+  margin-left: 0px;
+  width: 100%;
+  background-color:  #af1746;
+  height: 50px;
+}
+.navbar-brand{
+  
+  width: 100px;
+  height: 30px;
+  background-color: rgb(2, 38, 39);
+}
+#myNavbar{
+  position: absolute;
+  top: 0;  left: 0; right: 0;
+  margin: auto;
+  width:200px;
+  
+  background-color:  #990033;
+  
+}
+.btn-lg{
+  float: right;
+  border: 2px solid  #990033;
+  background-color:  #990033;
+}
+.bg-1{
+  background-image: url("B&W_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 1349px 500px;
+  margin-top: -22px;
+  
+  color: #fff;
+}
+.bg-3{
+  margin-top: -100px;
+  z-index: 10;
+
+}
+
+.navbar-default{
+  background-color:#990033;
+  height: 80px;
+  border: 2px solid #990033;
+}
+.left-text{
+  text-align: left;
+}
+.white{
+  color: #fff;
+}
